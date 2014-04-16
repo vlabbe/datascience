@@ -1,4 +1,4 @@
 datascience
 ===========
 
-My code for datascience.net challenges.
+Code for datascience.net challenges.
